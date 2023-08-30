@@ -625,6 +625,7 @@ geminirisingv2.near|wizzow.near|2023-08-23 18:11:04.135272+00
 ginamm.near|jloc.near|2023-08-30 15:58:13.010329+00
 ginamm.near|ramgor.near|2023-08-30 15:49:23.48489+00
 gombret.near|crans.near|2023-08-25 12:42:53.698232+00
+grav1ty.near|alphaflexhub.near|2023-08-30 23:17:31.257874+00
 greenghost.near|vandal.near|2023-08-17 10:59:10.681586+00
 grex.near|alan777.near|2023-08-22 19:49:22.823393+00
 grex.near|izcc.near|2023-08-28 19:07:58.315738+00
@@ -931,6 +932,7 @@ kwhyc.near|kriptoraptor.near|2023-07-21 05:33:53.501565+00
 kwhyc.near|vadim.near|2023-08-23 17:31:34.552142+00
 kwhyc.near|vandal.near|2023-08-08 18:45:40.97629+00
 kwhyc.near|vlad.near|2023-08-26 00:37:14.850434+00
+kylelegend.near|alphaflexhub.near|2023-08-30 23:22:27.539109+00
 ledum_ix.near|ndcplug.near|2023-08-29 18:49:53.947702+00
 lester.near|cryptois.near|2023-08-22 03:00:53.051663+00
 lester.near|louisliu.near|2023-08-22 03:01:16.442756+00
@@ -1122,6 +1124,8 @@ nearversedao.near|kangaroojack.near|2023-08-30 18:47:50.387168+00
 needb.near|chefsale.near|2023-08-29 16:09:34.828486+00
 nft-space.near|rubycop.near|2023-08-29 19:09:24.982299+00
 nickharrington.near|dleer.near|2023-08-26 00:02:49.005315+00
+nicolesuria.near|chloe.near|2023-08-30 23:21:03.195602+00
+nicolesuria.near|crans.near|2023-08-30 23:17:14.02187+00
 nirbhayrajput.near|dk_51.near|2023-08-28 18:03:39.523957+00
 nirbhayrajput.near|iamanansari.near|2023-08-28 18:07:13.107868+00
 nirbhayrajput.near|izubair.near|2023-08-28 18:09:18.107693+00
