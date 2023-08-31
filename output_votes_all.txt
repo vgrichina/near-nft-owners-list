@@ -1402,6 +1402,7 @@ rubycop.near|robert.near|2023-08-28 14:17:12.16895+00
 rubycop.near|rubycop.near|2023-08-30 10:09:39.429394+00
 rubycop.near|vadim.near|2023-08-26 10:47:26.426953+00
 rubycop.near|vlad.near|2023-08-30 20:42:38.863964+00
+rubycop.near|web3hedge.near|2023-08-31 12:50:07.622268+00
 rubycop.near|whendacha.near|2023-08-29 16:04:05.954934+00
 rubycop.near|yonota.near|2023-08-28 23:14:11.774218+00
 rustkyiv.near|evangel.near|2023-08-23 14:40:24.966998+00
