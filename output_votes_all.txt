@@ -510,6 +510,7 @@ cwpuzzles.near|vlad.near|2023-08-26 01:33:58.20687+00
 cwpuzzles.near|web3hedge.near|2023-09-02 01:44:51.629525+00
 cwpuzzles.near|whendacha.near|2023-08-25 23:01:07.60268+00
 dabbie3229.near|chloe.near|2023-07-20 12:16:38.044828+00
+dabbie3229.near|dedeukwu.near|2023-09-03 16:07:40.712532+00
 damboy22.near|cryptois.near|2023-09-03 14:43:08.498324+00
 damboy22.near|dabbie3229.near|2023-09-03 14:32:28.303992+00
 damboy22.near|louisliu.near|2023-09-03 14:40:19.219571+00
@@ -1543,6 +1544,7 @@ rexux.near|tolmindev.near|2023-08-13 19:40:09.305414+00
 rexux.near|whendacha.near|2023-08-24 11:20:05.877106+00
 rezadeli.near|louisliu.near|2023-08-28 11:17:08.210482+00
 richard.near|marieke.near|2023-08-29 15:31:44.245934+00
+rileytran.near|p3ter.near|2023-09-03 17:16:28.124335+00
 robert.near|blaze.near|2023-08-28 00:24:43.936789+00
 robert.near|chloe.near|2023-08-26 10:03:45.387428+00
 robert.near|ndcplug.near|2023-08-31 09:43:58.814457+00
